@@ -1,0 +1,21 @@
+{
+  "name": "cjs-transform",
+  "version": "0.0.1",
+  "description": "Transform Require.js module to use simplified CommonJS wrapper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.0"
+  },
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "repository": "",
+  "author": "Kim Joar Bekkelund",
+  "license": "BSD"
+}
